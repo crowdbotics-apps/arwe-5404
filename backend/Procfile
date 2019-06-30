@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT arwe_5404.wsgi:application
